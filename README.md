@@ -7,3 +7,13 @@
 - Factory Method
 - Builder
 - Prototype
+
+## Structural Patterns
+
+- Adapter
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Flyweight
+- Proxy
